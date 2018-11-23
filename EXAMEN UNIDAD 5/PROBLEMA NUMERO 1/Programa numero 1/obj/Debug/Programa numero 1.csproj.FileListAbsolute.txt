@@ -1,0 +1,6 @@
+C:\Users\Abraham\Desktop\Programa numero 1\bin\Debug\Programa numero 1.exe.config
+C:\Users\Abraham\Desktop\Programa numero 1\bin\Debug\Programa numero 1.exe
+C:\Users\Abraham\Desktop\Programa numero 1\bin\Debug\Programa numero 1.pdb
+C:\Users\Abraham\Desktop\Programa numero 1\obj\Debug\Programa numero 1.csprojResolveAssemblyReference.cache
+C:\Users\Abraham\Desktop\Programa numero 1\obj\Debug\Programa numero 1.exe
+C:\Users\Abraham\Desktop\Programa numero 1\obj\Debug\Programa numero 1.pdb
